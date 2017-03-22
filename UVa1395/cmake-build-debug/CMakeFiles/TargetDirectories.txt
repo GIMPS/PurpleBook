@@ -1,0 +1,3 @@
+/home/jason/CLionProjects/PurpleBook/UVa1395/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jason/CLionProjects/PurpleBook/UVa1395/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jason/CLionProjects/PurpleBook/UVa1395/cmake-build-debug/CMakeFiles/UVa1395.dir

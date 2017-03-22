@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jason/CLionProjects/PurpleBook/UVa12219/main.cpp
+cstdio
+-
+string
+-
+map
+-
+iostream
+-
+cstdio
+-
+cmath
+-
+algorithm
+-
+queue
+-
+set
+-
+stack
+-
+map
+-
+
