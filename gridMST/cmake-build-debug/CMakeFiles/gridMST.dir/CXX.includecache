@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jason/Documents/GitHub/acm_practices/gridMST/main.cpp
+iostream
+-
+vector
+-
+cstdio
+-
+math.h
+-
+

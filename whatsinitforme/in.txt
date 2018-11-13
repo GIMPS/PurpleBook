@@ -1,0 +1,15 @@
+4
+Strawberries 60
+Sugar ?
+Water 10
+Thickener ?
+
+5
+Strawberries 60
+item ?
+Sugar ?
+Water 10
+Thickener ?
+
+1
+item ?

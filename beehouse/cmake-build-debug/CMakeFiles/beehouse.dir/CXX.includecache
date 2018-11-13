@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jason/Documents/GitHub/acm_practices/beehouse/main.cpp
+cstdio
+-
+stack
+-
+cstdlib
+-
+algorithm
+-
+cstring
+-
+vector
+-
+set
+-
+
